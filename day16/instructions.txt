@@ -1,0 +1,2 @@
+## Challenge #16
+That was outstanding! Now do the same thing with firstCurrent(). Don't reinvent the wheel here, re-use existing code. This is one of the most important skills you can build as a coder...er, uh, I mean Lighthouse operator.

@@ -1,0 +1,4 @@
+## Challenge #17
+Transport Canada called back. They want something similar to what you did for firstRock() and firstCurrent() but they want both the first AND the last ship in your area.
+
+Write a function called shipReport() which does not take any parameters, but will return an array of the coordinates of the ship furthest to the west (left) and east (right) of your GRID. (Example: shipReport() would return ['B3', 'I5'].)
